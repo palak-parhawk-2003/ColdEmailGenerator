@@ -1,0 +1,21 @@
+# Default ignored files
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# VSCode / IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Data
+*.bin
+*.sqlite3
+
+/shelf/
+/workspace.xml
